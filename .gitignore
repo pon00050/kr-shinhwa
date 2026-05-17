@@ -1,0 +1,30 @@
+# Internal planning and strategy
+CLAUDE.md
+plan.md
+roadmap.md
+v0_specification.md
+funding.md
+funding/
+adversarial_review.md
+
+# Fragrance project (internal)
+fragrance/
+korean_cultural_fragrance_project_archive.md
+
+# Research and concept notes (internal for now)
+landscape_research_2026_05_17.md
+generative_visuals_concept_2026_05_17.md
+
+# Learning notes (internal)
+learning/
+
+# Obsidian vault (not a publication artifact)
+obsidian-prototype/
+
+# System
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+*.egg-info/
+.env
