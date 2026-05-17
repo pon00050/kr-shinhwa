@@ -21,6 +21,9 @@ learning/
 # Obsidian vault (not a publication artifact)
 obsidian-prototype/
 
+# Internal tracker (mirrors gitignored roadmap content)
+STATUS.md
+
 # System
 .DS_Store
 Thumbs.db
