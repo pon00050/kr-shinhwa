@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this dataset, ontology, or summaries, please cite as below."
+type: dataset
+title: "kr-신화: A Knowledge Graph of Korean Shamanic Mythology (무속신화)"
+abstract: >
+  An ontology-based knowledge graph for Korean shamanic mythology (무속신화),
+  anchored on 차사본풀이 as a prototype. Citation-traceable,
+  variant-preserving, and bilingual (Korean primary, English layer).
+  Licensed CC0 (data) / CC-BY 4.0 (content) / MIT (code).
+authors:
+  - name: "Jisoo Yi"
+    alias: pon00050
+    email: pon00050@gmail.com
+repository-code: "https://github.com/pon00050/kr-shinhwa"
+url: "https://pon00050.github.io/kr-shinhwa/"
+license:
+  - CC0-1.0
+  - CC-BY-4.0
+  - MIT
+keywords:
+  - Korean mythology
+  - 무속신화
+  - shamanic narrative
+  - ontology
+  - knowledge graph
+  - 본풀이
+  - 차사본풀이
+  - linked data
+  - 차사
+version: "0.1.0-pre"
+date-released: "2026-05-17"
